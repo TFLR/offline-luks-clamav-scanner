@@ -20,7 +20,7 @@ Typical incident-response style usage:
 1. Identify the LUKS partition you want to scan:
    ```bash
    lsblk -f
-````
+
 
 Example: `/dev/nvme0n1p3`
 
